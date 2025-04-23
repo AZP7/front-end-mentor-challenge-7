@@ -169,11 +169,7 @@
     }
 }
 @media(min-height:650px){
-    .content_1{
-        border: 1px solid red;
-    }
     .img_btn>img{
-        border: 1px solid red;
         height: 100%;
     }
 }
